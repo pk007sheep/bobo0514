@@ -1,0 +1,37 @@
+{
+    "RepositoryName": "pk007sheep",
+    "RepositoryDescription": "Repo for misaka",
+    "RepositoryAuthor": "SHUN",
+    "RepositoryIcon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.png",
+    "RepositoryWebsite": "https://github.com/pk007sheep/misaka",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/banner.png",
+    "RepositoryContents": 
+	[
+        {
+            "Name": "和音體 & Comic Sans MS",
+            "Description": "更換 iOS 字型：和音體 & Comic Sans MS",
+            "Author": {
+                "Label": "SHUN",
+                "Links": [
+                    {
+                        "Label": "SHUN",
+                        "Link": "https://github.com/pk007sheep/misaka"
+                    },
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/banner.png",
+            "Category": "Fonts",
+            "Caption": "和音體 & Comic Sans MS",
+            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/bg.png"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.fonts.hy.misaka",
+                    "Description": "First release"
+                },
+            ],
+            "PackageID": "com.shun.fonts.hy"
+        }
+    ]
+}
