@@ -2,9 +2,9 @@
     "RepositoryName": "pk007sheep",
     "RepositoryDescription": "Repo for misaka",
     "RepositoryAuthor": "SHUN",
-    "RepositoryIcon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.repo.png",
     "RepositoryWebsite": "https://github.com/pk007sheep/misaka",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/banner.png",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
     "RepositoryContents": 
 	[
         {
@@ -19,11 +19,11 @@
                     },
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.png",
-            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/banner.png",
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
+            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
             "Category": "Fonts",
             "Caption": "和音體 & Comic Sans MS",
-            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/bg.png"],
+            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.aj.png"],
             "Releases": [
                 {
                     "Version": "1.0",
