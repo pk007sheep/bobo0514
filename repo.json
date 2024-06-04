@@ -11,7 +11,7 @@
 				"Links": "https://github.com/pk007sheep/misaka"
 			},
 			"Name": "字型小工具",
-			"Description": "和音體 & Comic Sans MS",
+			"Description": "iOS、時鐘、鍵盤、Emoji...等字型",
 			"Caption": "測試環境：iOS15.4.1",
 			"Category": "Fonts",
 			"EmuVer": false,
@@ -27,7 +27,7 @@
 			"RepositoryURL": "https://raw.githubusercontent.com/pk007sheep/misaka/main/repo.json",
 			"Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
 			"HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
-			"Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.aj.png"]
+			"Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.ios15.fonts.png"]
 		},
 		{
 			"Author": {
