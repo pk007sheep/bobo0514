@@ -7,37 +7,6 @@
     "DefaultHeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
     "RepositoryContents": 
 	[
-        {
-            "Author": {
-                "Label": "SHUN",
-                "Links": [
-                    {
-                        "Label": "SHUN",
-                        "Link": "https://github.com/pk007sheep/misaka"
-                    },
-                ]
-            },
-            "Name": "字型小工具",
-            "Description": "和音體 & Comic Sans MS",
-			"Caption": "測試環境：iOS15.4.1",
-			"RepositoryURL": "https://raw.githubusercontent.com/pk007sheep/misaka/main/repo.json",
-            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.ios15.fonts.png"],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.ios15.fonts.misaka",
-                    "Description": "First release"
-                },
-            ],
-			"EmuVer": false,
-            "PackageID": "com.shun.ios15.fonts",
-            "MaxIOSVersion": "15.x",
-			"MinIOSVersion": "15.0",
-			"CompatibleOS": ["iOS", "iPadOS"],
-            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
-            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
-            "Category": "Fonts"
-       },
 	           {
             "Author": {
                 "Label": "SHUN",
