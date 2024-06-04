@@ -8,8 +8,6 @@
     "RepositoryContents": 
 	[
         {
-            "Name": "和音體 & Comic Sans MS",
-            "Description": "更換 iOS 字型",
             "Author": {
                 "Label": "SHUN",
                 "Links": [
@@ -19,19 +17,86 @@
                     },
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
-            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
-            "Category": "Fonts",
-            "Caption": "和音體 & Comic Sans MS",
-            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.aj.png"],
+            "Name": "字型小工具",
+            "Description": "和音體 & Comic Sans MS",
+			"Caption": "測試環境：iOS15.4.1",
+			"RepositoryURL": "https://raw.githubusercontent.com/pk007sheep/misaka/main/repo.json",
+            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.ios15.fonts.png"],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.fonts.hy.misaka",
+                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.ios15.fonts.misaka",
                     "Description": "First release"
                 },
             ],
-            "PackageID": "com.shun.fonts.hy"
-        }
+			"EmuVer": false,
+            "PackageID": "com.shun.ios15.fonts",
+            "MaxIOSVersion": "15.x",
+			"MinIOSVersion": "15.0",
+			"CompatibleOS": ["iOS", "iPadOS"],
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
+            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
+            "Category": "Fonts"
+       },
+	           {
+            "Author": {
+                "Label": "SHUN",
+                "Links": [
+                    {
+                        "Label": "SHUN",
+                        "Link": "https://github.com/pk007sheep/misaka"
+                    },
+                ]
+            },
+            "Name": "系統小工具",
+            "Description": "隱藏一些細節",
+			"Caption": "測試環境：iOS15.4.1",
+			"RepositoryURL": "https://raw.githubusercontent.com/pk007sheep/misaka/main/repo.json",
+            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.ios15.tweaks.png"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.ios15.tweaks.misaka",
+                    "Description": "First release"
+                },
+            ],
+			"EmuVer": false,
+            "PackageID": "com.shun.ios15.tweaks",
+            "MaxIOSVersion": "15.x",
+			"MinIOSVersion": "15.0",
+			"CompatibleOS": ["iOS", "iPadOS"],
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
+            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
+            "Category": "Tweaks"
+       },        {
+            "Author": {
+                "Label": "SHUN",
+                "Links": [
+                    {
+                        "Label": "SHUN",
+                        "Link": "https://github.com/pk007sheep/misaka"
+                    },
+                ]
+            },
+            "Name": "LINE小工具",
+            "Description": "換鈴聲 & 提醒聲",
+			"Caption": "測試環境：iOS15.4.1",
+			"RepositoryURL": "https://raw.githubusercontent.com/pk007sheep/misaka/main/repo.json",
+            "Screenshot": ["https://raw.githubusercontent.com/pk007sheep/misaka/main/images/screenshot.line.notify.png"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/pk007sheep/misaka/main/packages/com.shun.line.notify.misaka",
+                    "Description": "First release"
+                },
+            ],
+			"EmuVer": false,
+            "PackageID": "com.shun.line.notify",
+            "MaxIOSVersion": "15.x",
+			"MinIOSVersion": "15.0",
+			"CompatibleOS": ["iOS", "iPadOS"],
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.line.png",
+            "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
+            "Category": "Tweaks"
+       }
     ]
-}
