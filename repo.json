@@ -18,7 +18,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.fonts.png",
             "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
             "Category": "Fonts",
             "Caption": "測試環境：iOS15.4.1",
@@ -44,7 +44,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.app.png",
+            "Icon": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/icon.tweaks.png",
             "HeaderImage": "https://raw.githubusercontent.com/pk007sheep/misaka/main/images/header.b.png",
             "Category": "Tweaks",
             "Caption": "測試環境：iOS15.4.1",
